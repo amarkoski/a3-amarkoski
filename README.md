@@ -15,6 +15,16 @@ I used 5 middleware packages for this program.
 
 NOTE: The buttons for loading data for a given user and showing the results of all users intentionally excludes passwords. User data can be found in db.json.
 
+Instructions:
+
+Dependencies:
+npm install:
+  - express
+  - lowdb
+  - express-session
+  - serve-favicon
+  - cookie-parser
+
 Button descriptions:
 - Save: saves note title and body into database for specific user
 - Load: loads saved title and body from database for specific user into input fields
