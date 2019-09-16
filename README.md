@@ -1,6 +1,6 @@
 Andrew Markoski
 
-Glitch link: http://a3-amarkoski.glitch.me
+Glitch link: http://amarkoski-a3-amarkoski.glitch.me
 
 ## Note Keeper
 
