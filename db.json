@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "username": "am",
+      "password": "fm"
+    },
+    {
+      "username": "jimbo",
+      "password": "juice"
+    }
+  ],
+  "posts": [
+    {
+      "username": "am",
+      "title": "barry ",
+      "body": "boi"
+    }
+  ]
+}
